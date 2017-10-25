@@ -8,7 +8,13 @@ Below is a description of each utility and how to use it.
 
 ##Table of Contents
 
-[TOC]
+
+
+- [Create Array of Objects](#Create-Array-of-Objects)
+
+- [Regex Search](#Regex-Search)
+
+  ​
 
 ## Create Array of Objects
 
