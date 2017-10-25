@@ -1,9 +1,9 @@
 filterObjectArray = (data,type,records) => mapObjects(data,type).filter((e,i)=> i!== 0)
 
 const mapObjects = (data,type) => 
-    (type=== "comma"||"csv") 
+    (type=== "csv") 
         ? data.split('\r\n').map((e,i) => objectifyCommaElement(data,i))
-        : (type === "tab"||"txt")
+        : (type === "txt")
             ? data.split('\r\n').map((e,i) => objectifyTabElement(data,i))
             : data.map((e,i) => objectifyArrayElement(data,i))
 

@@ -57,9 +57,9 @@ const objectArray = createArrayObjects(data,[type],[records])
 
 | String               | Description                              |
 | -------------------- | ---------------------------------------- |
-| `"csv"` or `"comma"` | expected data passed into `data` is to be comma separated values file. (*.csv) |
-| `"txt"` or `"tab"`   | expected data passed into `data` is to be tab-separated text file. (*.txt) |
-| `"array"` or `null`  | expected data passed into `data` is to be 2 dimensional array |
+| `"csv"`  | expected data passed into `data` is to be comma separated values file. (*.csv) |
+| `"txt"`  | expected data passed into `data` is to be tab-separated text file. (*.txt) |
+| `"array"`| expected data passed into `data` is to be 2 dimensional array |
 
 **Records** [Optional]: A number determining the length of the return value array.
 
