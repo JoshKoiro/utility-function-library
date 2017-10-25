@@ -32,15 +32,13 @@ All library files are named `script.js` in the appropriate folder location.
 
 To import the Create Array Object function use the following code:
 
-###Import
+### Import
 
 ```javascript
 const makeObjectArray = require('./utility-function-library/create-object-array/script.js')
 ```
 
-
-
-###Syntax
+### Syntax
 
 ```javascript
 const objectArray = createArrayObjects(data,[type],[records])
@@ -76,4 +74,4 @@ console.log(objectArray(data,'array'))
 
 
 
-##Regex Search
+## Regex Search
