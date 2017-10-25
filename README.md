@@ -26,8 +26,11 @@ All library files are named `script.js` in the appropriate folder location.
 
 - [Regex Search](#regex-search)
 
-  ​
+- [Functional Loop](#functional-loop)
 
+- [Render Currency](#render-currency)
+
+  ​
 ## Create Array of Objects
 
 To import the Create Array Object function use the following code:
