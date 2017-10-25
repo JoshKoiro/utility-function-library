@@ -10,9 +10,9 @@ Below is a description of each utility and how to use it.
 
 
 
-- [Create Array of Objects](#Create-Array-of-Objects)
+- [Create Array of Objects](#create-array-of-objects)
 
-- [Regex Search](#Regex-Search)
+- [Regex Search](#regex-search)
 
   ​
 
