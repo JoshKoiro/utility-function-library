@@ -25,5 +25,7 @@ module.exports.colors = {
 }
 
 module.exports.log = (color,text) => {
+    console.log()
     console.log(color,text)
+    console.log(module.exports.colors.Reset,"")
 }
